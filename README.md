@@ -1,6 +1,6 @@
 1) Necessary Libraries
-  npm install react-bootstrap bootstrap
-  npm install axios
+  a) npm install react-bootstrap bootstrap
+  b) npm install axios
 
 2) React Bootstrap : https://react-bootstrap.netlify.app/docs/getting-started/introduction
 
